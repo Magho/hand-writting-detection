@@ -1,5 +1,5 @@
 ## Project Description 
-This notebook uses Credit card transsition data to determine if the transition is valid or not
+This notebook uses the famoust mnist data set to train a model predcting hand written digits
 
 ### used data set
 [mnist data set](http://yann.lecun.com/exdb/mnist/)
